@@ -31,7 +31,7 @@ This is a web based application developed for health related telugu based websit
 
 
 
-### About Us -We Care About Your Health,do not be pain in the rebuke in pleasure of pleasure.
+### About Us -We Care About Your Health,Do not be pain in the rebuke in pleasure of pleasure.
 
 
 
